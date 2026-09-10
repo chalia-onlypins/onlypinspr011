@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>온리핀스 상품권</title>
+  <subtitle>롯데백화점 모바일상품권 9종, 권종이 가장 촘촘합니다</subtitle>
+  <link href="https://adpr0011.onlypins.co.kr/"/>
+  <link rel="self" href="https://adpr0011.onlypins.co.kr/feed.xml"/>
+  <id>https://adpr0011.onlypins.co.kr/</id>
+  <updated>2026-09-10T09:00:00+09:00</updated>
+  <author><name>온리핀스</name></author>
+  <entry>
+    <title>컬쳐랜드상품권 구매 — 문화상품권 1만~5만원 | 온리핀스</title>
+    <link href="https://adpr0009.onlypins.co.kr/"/>
+    <id>https://adpr0009.onlypins.co.kr/</id>
+    <updated>2026-09-10T09:00:00+09:00</updated>
+    <summary>컬쳐랜드 문화상품권 4종을 카드 없이 계좌에서 바로</summary>
+  </entry>
+  <entry>
+    <title>신세계상품권 구매 — 백화점 모바일상품권 5종 | 온리핀스</title>
+    <link href="https://adpr0010.onlypins.co.kr/"/>
+    <id>https://adpr0010.onlypins.co.kr/</id>
+    <updated>2026-09-10T09:00:00+09:00</updated>
+    <summary>신세계백화점 모바일상품권 5종을 앱에서 바로</summary>
+  </entry>
+  <entry>
+    <title>롯데상품권 구매 — 백화점 모바일상품권 9종 | 온리핀스</title>
+    <link href="https://adpr0011.onlypins.co.kr/"/>
+    <id>https://adpr0011.onlypins.co.kr/</id>
+    <updated>2026-09-10T09:00:00+09:00</updated>
+    <summary>롯데백화점 모바일상품권 9종, 권종이 가장 촘촘합니다</summary>
+  </entry>
+</feed>
